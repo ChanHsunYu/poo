@@ -1,4 +1,3 @@
-
 math = input('3x-12+24=24 x=多少?:')
 if math == '4':
 	print('你答對了, Congratulations!')
